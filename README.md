@@ -3,6 +3,7 @@ heres my first skidded malware that no one will test :)
 
 its poorly made these exe files but here's what you need to do:
 
+first you need to download project64 and then follow these steps:
 1. open the setup on the vm and click on it
 2. wait 10 seconds and then open cmd
 3. you must do "cd C:\BETA"
