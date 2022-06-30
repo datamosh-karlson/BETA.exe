@@ -11,3 +11,5 @@ first you need to download project64 and then follow these steps:
 5. thlple is a kiddie
 
 thats it
+
+also that virus only works on windows 8.1, 10 and 11.
